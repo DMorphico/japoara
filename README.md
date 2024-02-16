@@ -9,8 +9,8 @@
 &#11015; On my GitHub, I share amazing projects in the game and web development area. Take a peek at my repositories to discover various open-source projects where my concepts come to life with solid code and innovative design. Ready to connect and be part of this exciting journey in game development?
     
 <div>
-  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=japoara&show_icons=true&theme=radical"/>
-  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=japoara&show_icons=true&theme=radical"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=japoara&show_icons=true&theme=radical"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=japoara&show_icons=true&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
